@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Nina! </h1>
 
-<!--
-**ninailenna/ninailenna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Robotics · Embedded Systems · Quantum Computing</b>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  Master’s student in Computer Science &amp; Systems Engineering<br>
+  TH Köln
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+<h2>About me</h2>
+
+<p>
+  I am currently working on robotics and embedded systems <3
+  I'm also interested in quantum computing and post-quantum cryptography.
+</p>
